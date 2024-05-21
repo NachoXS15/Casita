@@ -1,0 +1,94 @@
+*{margin: 0; padding: 0;}
+
+
+#cielo{
+	width: 1700px;
+	height: 600px;
+	background-color: lightblue;
+	position: fixed;
+	float: left;
+}
+
+#suelo{
+	background-color: green	;
+	width: 1700px;
+	height: 550px;	
+	top: 600px;
+	position: fixed;
+}
+
+#casa{
+	background-color: lightgreen;
+	width: 300px;
+	height: 300px;
+	position: fixed;
+	left: 600px;
+	top: 295px;
+	clear: both;
+	border-style: solid;
+}
+
+#ventana1{
+	background-color: white;
+	width: 30px;
+	height: 50px;
+	top: 380px;
+	left: 645px;
+	position: absolute;
+	clear: both;
+	border-style: solid;
+
+}
+
+#ventana2{
+	background-color: white;
+	width: 30px;
+	height: 50px;
+	top: 380px;
+	left: 820px;
+	position: absolute;
+	clear: both;
+	border-style: solid;
+}
+
+#puerta{
+	background-color: brown;
+	width: 60px;
+	height: 110px;
+	position: absolute;
+	left: 720px;
+	top: 484px;
+	clear: both;
+	border-style: solid;
+}
+
+#chimenea{
+	background-color: #D52E2E;
+	width: 60px;
+	height: 90px;
+	position: absolute;
+	left: 810px;
+	top: 202px;
+	clear: both;
+	border-style: solid;
+}
+
+#PICAPORTE{
+	background-color: grey;
+	width: 10px;
+	height: 10px;
+	position: absolute;
+	top: 530px;
+	left: 730px;
+	clear: both;
+}
+
+#sol{
+	background-color: yellow;
+	width: 100px;
+	height: 100px;
+	top: 100px;
+	left: 200px;
+	position: absolute;
+	clear: both
+}
